@@ -7,13 +7,31 @@
 
 Hello! These are the materials for the Machine Learning training at the Central Bank of Belize. The topics covered will include:
 
-1. Intro to Machine Learning for Public Policy 
-2. Intro to [Tidyverse](https://www.tidyverse.org/) for data manipulation
-3. Regularized regression with Lasso, Ridge, and [ElasticNet](https://glmnet.stanford.edu/articles/glmnet.html)
-4. Binary classification and diagnostics
-5. Regression trees and random forests 
-6. Data Pipelines and Dashboarding in [Shiny](https://shiny.rstudio.com/) and [flexdashboard](https://pkgs.rstudio.com/flexdashboard/) 
+|          | **Monday, October 24<sup>th</sup>, 2022**                                      |
+| -------- | ------------------------------------------------------------------------------ |
+| Time     | Topic                                                                          |
+| 8:30 AM  | Registration and light breakfast                                               |
+| 9:00 AM  | Opening remarks – Maria Cecilia Deza (IDB)                                     |
+| 9:10 AM  | Introductions, participants and instructor Jonathan Hersh (Chapman University) |
+|  9:30    | 1\. Introduction to R                                                          |
+| 11:00 AM | _Lunch_                                                                        |
+| 1:30 PM  | 2\. Graphing relationships between variables using ggplot2                     |
+| 3:00 PM  | _Coffee break_                                                                 |
+| 3:30 PM  | 3\. Linear Regression                                                          |
+| 5:30 PM  | Recap of the day, Q&A                                                          |
 
+|          | **Tuesday, October 25<sup>th</sup>, 2022**              |
+| -------- | ------------------------------------------------------- |
+| Time     | Topic                                                   |
+| 8:30 AM  | _Light breakfast_                                       |
+| 9:00 AM  | 4\. Machine Learning: Lasso, Ridge and ElasticNet       |
+| 11:00 AM | _Coffee break_                                          |
+| 11:15 AM | 5\. Machine Learning: Decision Trees and Random Forests |
+| 1:00 PM  | _Lunch_                                                 |
+| 2:00 PM  | 6\. Binary Classification Diagnostics                   |
+| 3:30 PM  | _Coffee break_                                          |
+| 3:45 PM  | 7\. Small Area Estimation for Financial Inclusion       |
+| 5:00 PM  | Recap of the day, Q&A                                   |
 
 ------
 
