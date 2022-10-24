@@ -12,7 +12,7 @@ Hello! These are the materials for the Machine Learning training at the Central 
 | Time     | Topic                                                                          |
 | 8:30 AM  | Registration and light breakfast                                               |
 | 9:00 AM  | Opening remarks – Maria Cecilia Deza (IDB)                                     |
-| 9:10 AM  | Introductions, participants and instructor Jonathan Hersh (Chapman University) |
+| 9:10 AM  | Introductions, participants and instructor                                     |
 |  9:30    | 1\. Introduction to Machine Learning and R                                     |
 | 11:00 AM | _Lunch_                                                                        |
 | 1:30 PM  | 2\. Data manipulaton using dplyr                                               |
