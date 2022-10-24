@@ -13,11 +13,11 @@ Hello! These are the materials for the Machine Learning training at the Central 
 | 8:30 AM  | Registration and light breakfast                                               |
 | 9:00 AM  | Opening remarks – Maria Cecilia Deza (IDB)                                     |
 | 9:10 AM  | Introductions, participants and instructor Jonathan Hersh (Chapman University) |
-|  9:30    | 1\. Introduction to R                                                          |
+|  9:30    | 1\. Introduction to Machine Learning and R                                     |
 | 11:00 AM | _Lunch_                                                                        |
-| 1:30 PM  | 2\. Graphing relationships between variables using ggplot2                     |
+| 1:30 PM  | 2\. Data manipulaton using dplyr                                               |
 | 3:00 PM  | _Coffee break_                                                                 |
-| 3:30 PM  | 3\. Linear Regression                                                          |
+| 3:00 PM  | 3\. Graphing relationships between variables using ggplot2                     |
 | 5:30 PM  | Recap of the day, Q&A                                                          |
 
 |          | **Tuesday, October 25<sup>th</sup>, 2022**              |
