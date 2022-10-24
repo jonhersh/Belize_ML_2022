@@ -99,12 +99,16 @@ getwd()
 #--------------------------------------------------
 # File path and directories
 #--------------------------------------------------
-library('readr')
-
 # to read .csv files
+# library('readr')
 # DF <- read_csv("data/data.csv")
 
 # to read in RDS or R data files
 LFS_2019 <- readRDS("data/LFS_April_2019_noPID.RDS")
 
 
+# to read in Eviews files
+# library('EviewsR')
+# See more here: https://github.com/sagirumati/EviewsR
+
+# https://search.r-project.org/CRAN/refmans/hexView/html/readEViews.html
