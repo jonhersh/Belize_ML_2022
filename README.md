@@ -71,7 +71,7 @@ If you have never used Github, don't worry. You can either clone the repository,
 
 ```
 install.packages('usethis')
-install.packages('tidyverse')
+# install.packages('tidyverse')
 
 newProject <- usethis::use_course('https://github.com/jonhersh/Belize_ML_2022/archive/main.zip')
 ```
