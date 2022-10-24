@@ -25,7 +25,7 @@ Hello! These are the materials for the Machine Learning training at the Central 
 | Time     | Topic                                                   |
 | 8:30 AM  | _Light breakfast_                                       |
 | 9:00 AM  | 4\. Linear Regression                                   |
-| 9:00 AM  | 5\. Machine Learning: Lasso, Ridge and ElasticNet       |
+| 10:00 AM  | 5\. Machine Learning: Lasso, Ridge and ElasticNet      |
 | 11:00 AM | _Coffee break_                                          |
 | 11:15 AM | 6\. Binary Classification Diagnostics                   |
 | 1:00 PM  | _Lunch_                                                 |
