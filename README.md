@@ -24,13 +24,14 @@ Hello! These are the materials for the Machine Learning training at the Central 
 | -------- | ------------------------------------------------------- |
 | Time     | Topic                                                   |
 | 8:30 AM  | _Light breakfast_                                       |
-| 9:00 AM  | 4\. Machine Learning: Lasso, Ridge and ElasticNet       |
+| 9:00 AM  | 4\. Linear Regression                                   |
+| 9:00 AM  | 5\. Machine Learning: Lasso, Ridge and ElasticNet       |
 | 11:00 AM | _Coffee break_                                          |
-| 11:15 AM | 5\. Machine Learning: Decision Trees and Random Forests |
+| 11:15 AM | 6\. Binary Classification Diagnostics                   |
 | 1:00 PM  | _Lunch_                                                 |
-| 2:00 PM  | 6\. Binary Classification Diagnostics                   |
+| 2:00 PM  | 7\. Machine Learning: Decision Trees and Random Forests |
 | 3:30 PM  | _Coffee break_                                          |
-| 3:45 PM  | 7\. Small Area Estimation for Financial Inclusion       |
+| 3:45 PM  | 8\. Mapping model results in R                          |
 | 5:00 PM  | Recap of the day, Q&A                                   |
 
 ------
@@ -47,6 +48,7 @@ If you would like to install and run R locally please install the following prog
 
 * RStudio Desktop 2022.07.2+576 [link](https://www.rstudio.com/products/rstudio/download/#download)
 * R 4.2.1 [link](https://cran.r-project.org/bin/windows/base/)
+* RTools [https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html]
 
 ### Running R in a Web Browser
 
