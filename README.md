@@ -31,7 +31,7 @@ Hello! These are the materials for the Machine Learning training at the Central 
 | 1:00 PM  | _Lunch_                                                 |
 | 2:00 PM  | 7\. Binary Classification Diagnostics                   |
 | 3:30 PM  | _Coffee break_                                          |
-| 3:45 PM  | 8\. Mapping model results in R                          |
+| 4:00 PM  | 8\. Mapping model results in R                          |
 | 5:00 PM  | Recap of the day, Q&A                                   |
 
 ------
